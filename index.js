@@ -2,8 +2,8 @@ readlineSync = require("readline-sync")
 
 var score = 0;
 var questions = [{
-  question: "His favourite sabzi? ",
-  answer: "Ladyfinger"
+  question: "His favourite food? ",
+  answer: "Chole Bhature"
 }, {
   question: "Shivam's favourite movie? ",
   answer: "Bahubali"
